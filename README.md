@@ -1,4 +1,4 @@
-<img src="https://github.com/orange711/orange711/blob/main/0e2442a7d933c8957bb89b96db1373f08302001c.jpg?raw=true" alt="mario" style="zoom:10%;float:left;"/>
+<img src="https://github.com/orange711/orange711/blob/main/0e2442a7d933c8957bb89b96db1373f08302001c.jpg?raw=true" alt="mario" style="width:30px;height:30px;float:left;"/>
  **欢迎访问**
 
  **ようこそ**
