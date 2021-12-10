@@ -8,6 +8,7 @@
  **Welcome**
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orange711&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **orange711/orange711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
